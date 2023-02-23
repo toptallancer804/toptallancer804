@@ -86,20 +86,3 @@
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Kanedamorio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
 </p>
-
-<!-- ## My GitHub Stats 📊
-
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kanedamorio&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true" alt="readme-stats-niclas" height="180px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanedamorio&layout=compact&theme=highcontrast&hide_border=true" alt="used-langs-niclas" height="180px"/>
-</p>
-
-<p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kanedamorio&no-bg=true&column=7&theme=discord&margin-w=15" alt="trophy-niclas" height="200px"/>
-</p> -->
-
-![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kanedamorio&theme=react-dark)
-
-<p align="center">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=kanedamorio&theme=highcontrast&hide_border=true"/>
-</p>
