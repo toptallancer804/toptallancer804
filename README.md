@@ -7,7 +7,7 @@
 <meta name="back-end" />
 <meta name="full-stack"/>
 <h1 align="left">
-    <em>Hello</em><img src="source/Hi.gif" height="37px" width="30px">, <em>I'm Kaneda</em>
+    <em>Hello</em><img src="source/Hi.gif" height="37px" width="30px">, <em>I'm Senior</em>
     <em> 🚀 Full-Stack Developer! </em>
 </h1>
 
